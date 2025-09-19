@@ -1,1 +1,5 @@
 this is first test note 1.
+<<<<<<< HEAD
+=======
+this is update in remote repository.
+>>>>>>> cde96dfa80293d15997569c284315bed135908d8
